@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns       = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "fr.alizescard.dom7move"
+        id          = "fr.catapp.ankh"
         versionCode = "10"
         version     = "1.0.0.0" >
 
-	<name>AD Card Dom7Move</name>
+	<name>ANKH</name>
 
-	<description>Votre carte de visite professionelle par Alizés Déveleoppement</description>
+	<description>E-Dossier de Presse</description>
 
 	<author href="" email=""></author>
 
@@ -32,7 +32,7 @@
 	<plugin name="cordova-plugin-device" source="npm" />
 	<plugin name="cordova-plugin-statusbar" source="npm" />
 	<plugin name="cordova-build-architecture" spec="https://github.com/MBuchalik/cordova-build-architecture.git#v1.0.4" source="git" />
-        <content src="https://alizescard.fr/DOM7MOVE/" />
+        <content src="https://catapp.fr/ankh/" />
 
 	<!-- Whitelist policy  -->
 	<access origin="*" />
